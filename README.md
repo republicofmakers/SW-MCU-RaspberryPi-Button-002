@@ -1,4 +1,4 @@
-# SW-RaspberryPi-Thonny-Button-002
+# SW-MCU-RaspberryPi-Button-002
 
 
 Here is simple button to test control a led.<br>
